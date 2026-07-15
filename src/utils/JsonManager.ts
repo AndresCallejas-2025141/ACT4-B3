@@ -1,5 +1,5 @@
 import { writeFile } from "fs/promises";
-import { Usuario } from "../models/Usuario.js";
+import { Usuario } from "../models/Usuario";
 
 export class JsonManager {
 
