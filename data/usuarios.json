@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Leanne Graham",
+        "usuario": "Bret",
+        "correo": "Sincere@april.biz"
+    },
+    {
+        "id": 2,
+        "nombre": "Ervin Howell",
+        "usuario": "Antonette",
+        "correo": "Shanna@melissa.tv"
+    },
+    {
+        "id": 3,
+        "nombre": "Clementine Bauch",
+        "usuario": "Samantha",
+        "correo": "Nathan@yesenia.net"
+    },
+    {
+        "id": 4,
+        "nombre": "Patricia Lebsack",
+        "usuario": "Karianne",
+        "correo": "Julianne.OConner@kory.org"
+    },
+    {
+        "id": 5,
+        "nombre": "Chelsey Dietrich",
+        "usuario": "Kamren",
+        "correo": "Lucio_Hettinger@annie.ca"
+    },
+    {
+        "id": 6,
+        "nombre": "Mrs. Dennis Schulist",
+        "usuario": "Leopoldo_Corkery",
+        "correo": "Karley_Dach@jasper.info"
+    },
+    {
+        "id": 7,
+        "nombre": "Kurtis Weissnat",
+        "usuario": "Elwyn.Skiles",
+        "correo": "Telly.Hoeger@billy.biz"
+    },
+    {
+        "id": 8,
+        "nombre": "Nicholas Runolfsdottir V",
+        "usuario": "Maxime_Nienow",
+        "correo": "Sherwood@rosamond.me"
+    },
+    {
+        "id": 9,
+        "nombre": "Glenna Reichert",
+        "usuario": "Delphine",
+        "correo": "Chaim_McDermott@dana.io"
+    },
+    {
+        "id": 10,
+        "nombre": "Clementina DuBuque",
+        "usuario": "Moriah.Stanton",
+        "correo": "Rey.Padberg@karina.biz"
+    }
+]
