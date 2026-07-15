@@ -1,5 +1,5 @@
-import { ApiService } from "./services/ApiService.js";
-import { JsonManager } from "./utils/JsonManager.js";
+import { ApiService } from "./services/ApiService";
+import { JsonManager } from "./utils/JsonManager";
 import { Timer } from "./utils/Timer.js";
 
 async function main(): Promise<void> {
@@ -34,21 +34,8 @@ async function main(): Promise<void> {
         console.log("=======================================");
 
     } catch (error) {
-
-        console.error("Ocurrió un error durante la ejecución.");
-
-        if (error instanceof Error) {
-
-            console.error("Tipo:", error.name);
-            console.error("Mensaje:", error.message);
-
-        } else {
-
-            console.error(error);
-
-        }
-
-    }
+    console.error(error);
+}
 
 }
 
